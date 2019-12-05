@@ -1,0 +1,12 @@
+1. winning move
+    a. can take opponants master
+    b. can move master to opponants win square
+
+2. in check
+    a. can take threatening piece
+    b. can move out of check
+
+3. move a piece at random
+    a. avoid moving master into check
+    b. avoid moving pawn into taking position
+

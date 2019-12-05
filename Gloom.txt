@@ -1,0 +1,10 @@
+Setup basic grid
+Add player with basic movement
+Constrain movement to distance
+Add turn based mechanics
+Add attack abilites and health
+Add all monsters defeated game end mechanics
+
+Add base card with attack and move
+Add deck
+Add rounds and initiative based turn order
