@@ -1,0 +1,24 @@
+// phase 1
+setup grid
+add players
+setup basic move capabilities
+allow piece taking
+limit piece moving to player's pieces
+implement turn based movement
+limit move capabilities
+implement cards
+add victory conditions
+add end game menu
+add full game menu
+
+// phase 2
+add online play
+
+// phase 3
+add AI
+
+// phase 4
+add tutorial
+
+// phase 5
+add theme selection
