@@ -1,0 +1,11 @@
+C:\Users\bwicker\Desktop\Grid\Onitama\bin\Debug\netcoreapp3.0\Onitama.exe
+C:\Users\bwicker\Desktop\Grid\Onitama\bin\Debug\netcoreapp3.0\Onitama.deps.json
+C:\Users\bwicker\Desktop\Grid\Onitama\bin\Debug\netcoreapp3.0\Onitama.runtimeconfig.json
+C:\Users\bwicker\Desktop\Grid\Onitama\bin\Debug\netcoreapp3.0\Onitama.runtimeconfig.dev.json
+C:\Users\bwicker\Desktop\Grid\Onitama\bin\Debug\netcoreapp3.0\Onitama.dll
+C:\Users\bwicker\Desktop\Grid\Onitama\bin\Debug\netcoreapp3.0\Onitama.pdb
+C:\Users\bwicker\Desktop\Grid\Onitama\obj\Debug\netcoreapp3.0\Onitama.csprojAssemblyReference.cache
+C:\Users\bwicker\Desktop\Grid\Onitama\obj\Debug\netcoreapp3.0\Onitama.AssemblyInfoInputs.cache
+C:\Users\bwicker\Desktop\Grid\Onitama\obj\Debug\netcoreapp3.0\Onitama.AssemblyInfo.cs
+C:\Users\bwicker\Desktop\Grid\Onitama\obj\Debug\netcoreapp3.0\Onitama.dll
+C:\Users\bwicker\Desktop\Grid\Onitama\obj\Debug\netcoreapp3.0\Onitama.pdb
